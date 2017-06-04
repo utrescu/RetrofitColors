@@ -1,4 +1,4 @@
-[Exemple de l'article del Blog] (http://blog.utrescu.cat/Usar_Retrofit_per_consumir_serveis_REST/)
+[Exemple de l'article del Blog](http://blog.utrescu.cat/Usar_Retrofit_per_consumir_serveis_REST/)
 
 [Retrofit](http://square.github.io/retrofit/) és una llibreria de Java que es fa servir per consumir serveis REST de qualsevol tipus: JSON, XML, Protobuff, etc...
 
